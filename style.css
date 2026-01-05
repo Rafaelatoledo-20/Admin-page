@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #c6c4c4;
+  background-color: #d3ebeb;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -69,3 +69,4 @@ button {
 .admin-title {
   margin: auto;
 }
+
